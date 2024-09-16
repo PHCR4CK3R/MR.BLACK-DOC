@@ -15,7 +15,7 @@ banner = """
 ┃┃┃┃┃┃┃┃╰┳┫╰━╯┃╰━╯┃╭━╮┃╰━╯┃┃┃╰╮╭╯╰╯┃╰━╯┃╰━╯┃
 ╰╯╰╯╰┻╯╰━┻┻━━━┻━━━┻╯╱╰┻━━━┻╯╰━╯╰━━━┻━━━┻━━━╯
           Do.c   Dox Collections v2.4
-          By MR.BLAKC
+          By MR.BLACK
 """
 
 def print_banner():
